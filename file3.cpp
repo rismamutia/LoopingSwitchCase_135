@@ -5,6 +5,7 @@ using namespace std;
 
 int main (){
     int pilihan;
+    float panjang,lebar,jejari;
     
     do{
         cout << "===Menu===" << endl;
